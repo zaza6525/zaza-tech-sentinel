@@ -1,11 +1,7 @@
 # ZAZA Tech Sentinel
 
-Ce repo contient les rapports de veille technique générés automatiquement par ZAZA.
-
-## Structure
-- `reports/`: Fichiers JSON/MD des findings.
-- `scripts/`: Scripts de veille.
+Repository for ZAZA's stabilization and tech monitoring scripts.
 
 ## Status
-- Veille RSS: Active
-- Publication: Active
+- Stabilization: In Progress
+- Tech Watch: Active
