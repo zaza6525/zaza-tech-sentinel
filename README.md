@@ -1,9 +1,11 @@
 # ZAZA Tech Sentinel
 
-Un script de veille technique pour détecter les breaking changes et les mises à jour critiques.
+Ce repo contient les rapports de veille technique générés automatiquement par ZAZA.
 
-## Installation
-pip install feedparser requests
+## Structure
+- `reports/`: Fichiers JSON/MD des findings.
+- `scripts/`: Scripts de veille.
 
-## Usage
-python sentinel.py --sources rss_list.txt
+## Status
+- Veille RSS: Active
+- Publication: Active
